@@ -1,0 +1,12 @@
+.container
+{
+    display:grid;
+    gap:5px;
+    column-gap:10px;
+    align-items:right;
+    grid-template-columns:20% 20% 20%;
+    
+}
+.button{
+    justify-content:right;
+}
