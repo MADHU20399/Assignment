@@ -1,0 +1,16 @@
+.container
+{
+    
+    display:flex;
+    gap:15px;
+    column-gap:15px;
+    align-items:right;
+    grid-template-columns:20% 20% 20%;
+}
+.button{
+    justify-content:right;
+
+}
+.p{
+    justify-content:center;
+}
