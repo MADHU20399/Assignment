@@ -1,0 +1,36 @@
+/*.square{
+    text-align:left;
+    margin-left:30px;
+    margin-right:30px;
+    padding-left:30px;
+    top:100px;
+    width:400px;
+    height:400px;
+    right:50px;
+    background-color:rgba(255, 255, 255, 0.945);
+    border: 1px ;
+    border-radius:6px;
+}*/
+.square{
+    
+    display:flex;
+    gap:5px;     
+    background-color: rgb(247, 246, 246);
+     border-radius:5px;
+    padding-left:5px;
+     padding-top:5px;
+     padding-bottom: 10px;
+     width:840px;
+}
+.container{
+    display:grid;
+    grid-template-columns:20% 20% 20%;
+   
+    align-items:right;
+}
+.class_name {
+    display:flex;
+    align-items:center;
+}
+
+
